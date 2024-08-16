@@ -14,12 +14,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# displaying logo
-# -----------------------------------------
-st.logo("images\\logo.jpg")
-# -----------------------------------------
-
-
 # main function
 def main() -> None:
     # this html code to remove 'X' button from dialog
