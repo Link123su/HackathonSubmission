@@ -15,12 +15,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# displaying logo
-# -----------------------------------------
-st.logo("images\\logo.jpg")
-# -----------------------------------------
-
-
 # This function checks the result
 def check_result(user_choice, computer_choice) -> str:
 
