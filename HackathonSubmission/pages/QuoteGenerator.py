@@ -15,11 +15,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# displaying logo
-# -----------------------------------------
-st.logo("images\\logo.jpg")
-# -----------------------------------------
-
 # generating random quote and storing in cache
 # -----------------------------------------
 @st.cache_data
