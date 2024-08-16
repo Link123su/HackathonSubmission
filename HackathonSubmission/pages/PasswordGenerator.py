@@ -16,12 +16,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# displaying logo
-# -----------------------------------------
-st.logo("images\\logo.jpg")
-# -----------------------------------------
-
-
 # main function
 def main() -> None :
     # this function will generate password
