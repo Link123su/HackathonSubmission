@@ -14,11 +14,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# displaying logo
-# -----------------------------------------
-st.logo("images\\logo.jpg")
-# -----------------------------------------
-
 # some text
 # -----------------------------------------
 st.subheader(":green[This website is my submission for the 'Coding with Lewis' Hackathon]")
