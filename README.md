@@ -3,6 +3,7 @@ This is my submission for Coding with Lewis Hackathon.
 
 requirements:
 install streamlit
+and
 install requests
 
 Note:
