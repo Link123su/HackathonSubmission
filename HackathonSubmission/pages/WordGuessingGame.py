@@ -15,11 +15,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# displaying logo
-# -----------------------------------------
-st.logo("images\\logo.jpg")
-# -----------------------------------------
-
 # this function will display sparrow dialog
 # -----------------------------------------
 @st.dialog("Mr.Sparrow")
