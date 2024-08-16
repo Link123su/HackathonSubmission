@@ -15,10 +15,6 @@ st.set_page_config(
 )
 # -----------------------------------------
 
-# adding logo to sidebar
-st.logo("images\\logo.jpg")
-
-
 # main function
 def main() -> None:
 
